@@ -9,8 +9,12 @@ I believe in learning by building, breaking, and fixing.
 
 ### 🌐 Live Project
 
-**[NTS Workholding](https://github.com/ixxhuu/NTS_Frontend)**  
-A live business website built and deployed for NTS Workholding.
+**NTS Workholding** — Full-stack business website built.
+
+- 🎨 Frontend: Public
+- 🔒 Backend: Private due to business/project considerations
+- 🌐 [Live Website](https://ntsworkholding.in)
+- 💻 [Frontend Repository](https://github.com/ixxhuu/NTS_Frontend)
 
 🌐 **[Visit Website](https://ntsworkholding.in)**
 
